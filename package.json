@@ -1,0 +1,19 @@
+{
+  "name": "clean-code-api",
+  "version": "1.0.0",
+  "description": "API em NodeJS com Clean Architecture e TDD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsondasilva/clean-code-api.git"
+  },
+  "author": "Edson da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsondasilva/clean-code-api/issues"
+  },
+  "homepage": "https://github.com/edsondasilva/clean-code-api#readme"
+}
