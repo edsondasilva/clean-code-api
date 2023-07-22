@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/edsondasilva/clean-code-api/issues"
   },
-  "homepage": "https://github.com/edsondasilva/clean-code-api#readme"
+  "homepage": "https://github.com/edsondasilva/clean-code-api#readme",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
 }
